@@ -1,0 +1,162 @@
+{
+  "TimeOfCreation": "20.05.2024 18:51",
+  "Pump": {
+    "ID": "10023867351",
+    "Platform": "Planar",
+    "IEM": "PSS-co-MA/PEG",
+    "Coating": "Acrylate",
+    "IEMGeometry": "Circular",
+    "Source": "KCl",
+    "Solvent": "DI water",
+    "TargetSolvent": "DMSO",
+    "Target": "NaCl",
+    "SourceConcentrationUnit": "nM",
+    "TargetConcentrationUnit": "nM",
+    "PolyConcentration": 2.33,
+    "CSDiam": 3.0,
+    "CSLen": 4.0,
+    "CSWidth": 3.0,
+    "Length": 2.0,
+    "SConc": 4.0,
+    "TConc": 4.0,
+    "NumChannels": 1.0
+  },
+  "Data": [
+    {
+      "RequestedValue": 0,
+      "CurrentControl": true,
+      "MeasuredCurrent": 0.0,
+      "MeasuredVoltage": 0,
+      "CalculatedResistance": 0,
+      "SecondsFromStart": 30
+    },
+    {
+      "RequestedValue": 0,
+      "CurrentControl": false,
+      "MeasuredCurrent": 1.63,
+      "MeasuredVoltage": 16,
+      "CalculatedResistance": 377600960,
+      "SecondsFromStart": 60
+    },
+    {
+      "RequestedValue": 0,
+      "CurrentControl": false,
+      "MeasuredCurrent": 1.63,
+      "MeasuredVoltage": 16,
+      "CalculatedResistance": 377711168,
+      "SecondsFromStart": 90
+    },
+    {
+      "RequestedValue": 0,
+      "CurrentControl": false,
+      "MeasuredCurrent": 1.63,
+      "MeasuredVoltage": 16,
+      "CalculatedResistance": 161411376,
+      "SecondsFromStart": 120
+    },
+    {
+      "RequestedValue": 0,
+      "CurrentControl": false,
+      "MeasuredCurrent": 1.63,
+      "MeasuredVoltage": 16,
+      "CalculatedResistance": 54155572,
+      "SecondsFromStart": 150
+    },
+    {
+      "RequestedValue": 0,
+      "CurrentControl": false,
+      "MeasuredCurrent": 1.63,
+      "MeasuredVoltage": 16,
+      "CalculatedResistance": 54269288,
+      "SecondsFromStart": 180
+    },
+    {
+      "RequestedValue": 0,
+      "CurrentControl": false,
+      "MeasuredCurrent": 1.84,
+      "MeasuredVoltage": 18,
+      "CalculatedResistance": 642199,
+      "SecondsFromStart": 210
+    },
+    {
+      "RequestedValue": 0,
+      "CurrentControl": false,
+      "MeasuredCurrent": 1.63,
+      "MeasuredVoltage": 16,
+      "CalculatedResistance": 522720,
+      "SecondsFromStart": 240
+    },
+    {
+      "RequestedValue": 0,
+      "CurrentControl": false,
+      "MeasuredCurrent": 1.84,
+      "MeasuredVoltage": 18,
+      "CalculatedResistance": 403241,
+      "SecondsFromStart": 270
+    },
+    {
+      "RequestedValue": 0,
+      "CurrentControl": false,
+      "MeasuredCurrent": 1.84,
+      "MeasuredVoltage": 18,
+      "CalculatedResistance": 276295,
+      "SecondsFromStart": 300
+    },
+    {
+      "RequestedValue": 0,
+      "CurrentControl": false,
+      "MeasuredCurrent": 10.65,
+      "MeasuredVoltage": 105,
+      "CalculatedResistance": 189914,
+      "SecondsFromStart": 330
+    },
+    {
+      "RequestedValue": 0,
+      "CurrentControl": false,
+      "MeasuredCurrent": 18.03,
+      "MeasuredVoltage": 178,
+      "CalculatedResistance": 163416,
+      "SecondsFromStart": 360
+    },
+    {
+      "RequestedValue": 0,
+      "CurrentControl": false,
+      "MeasuredCurrent": 25.2,
+      "MeasuredVoltage": 248,
+      "CalculatedResistance": 23106,
+      "SecondsFromStart": 390
+    },
+    {
+      "RequestedValue": 0,
+      "CurrentControl": false,
+      "MeasuredCurrent": 24.17,
+      "MeasuredVoltage": 238,
+      "CalculatedResistance": 114375,
+      "SecondsFromStart": 420
+    },
+    {
+      "RequestedValue": 0,
+      "CurrentControl": false,
+      "MeasuredCurrent": 22.12,
+      "MeasuredVoltage": 216,
+      "CalculatedResistance": 174646,
+      "SecondsFromStart": 450
+    },
+    {
+      "RequestedValue": 0,
+      "CurrentControl": false,
+      "MeasuredCurrent": 20.28,
+      "MeasuredVoltage": 198,
+      "CalculatedResistance": 371345,
+      "SecondsFromStart": 480
+    },
+    {
+      "RequestedValue": 0,
+      "CurrentControl": false,
+      "MeasuredCurrent": 18.64,
+      "MeasuredVoltage": 184,
+      "CalculatedResistance": 426357,
+      "SecondsFromStart": 510
+    }
+  ]
+}

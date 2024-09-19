@@ -1,0 +1,15 @@
+{
+    "PumpID": "10234",
+    "TimeOfCreation": "300420240814",
+    "pumpData":{},
+    "Data": {
+        "DataPoints": [
+           
+            {"RequestedValue": 11,
+            "CurrentControl": true,
+            "MeasuredCurrent": 100,
+            "MeasuredVoltage": 1023,
+            "CalculatedResistance": 1000000,
+            "SecondsFromStart": 21}]
+    }
+}

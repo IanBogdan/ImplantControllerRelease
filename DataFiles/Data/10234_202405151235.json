@@ -1,0 +1,106 @@
+{
+  "TimeOfCreation": "15.05.2024 12:35",
+  "Pump": {
+    "ID": "10234",
+    "Platform": "Planar",
+    "IEM": "C-HPG",
+    "Coating": "Acrylate",
+    "IEMGeometry": "Rectangular",
+    "Source": "Tz (K2)",
+    "Solvent": "PBS",
+    "TargetSolvent": null,
+    "Target": "PBS",
+    "SourceConcentrationUnit": null,
+    "TargetConcentrationUnit": null,
+    "PolyConcentration": 10.0,
+    "CSDiam": 3.0,
+    "CSLen": 0.0,
+    "CSWidth": 0.0,
+    "Length": 5.0,
+    "SConc": 0.33,
+    "TConc": 4.0,
+    "NumChannels": 2.0
+  },
+  "Data": [
+    {
+      "RequestedValue": 0,
+      "CurrentControl": false,
+      "MeasuredCurrent": 95.68,
+      "MeasuredVoltage": 994,
+      "CalculatedResistance": 1373533,
+      "SecondsFromStart": 30
+    },
+    {
+      "RequestedValue": 0,
+      "CurrentControl": false,
+      "MeasuredCurrent": 96.09,
+      "MeasuredVoltage": 1000,
+      "CalculatedResistance": 1184016,
+      "SecondsFromStart": 60
+    },
+    {
+      "RequestedValue": 0,
+      "CurrentControl": false,
+      "MeasuredCurrent": 96.09,
+      "MeasuredVoltage": 1000,
+      "CalculatedResistance": 891682,
+      "SecondsFromStart": 90
+    },
+    {
+      "RequestedValue": 0,
+      "CurrentControl": false,
+      "MeasuredCurrent": 93.43,
+      "MeasuredVoltage": 992,
+      "CalculatedResistance": 891682,
+      "SecondsFromStart": 120
+    },
+    {
+      "RequestedValue": 0,
+      "CurrentControl": false,
+      "MeasuredCurrent": 95.27,
+      "MeasuredVoltage": 990,
+      "CalculatedResistance": 891307,
+      "SecondsFromStart": 150
+    },
+    {
+      "RequestedValue": 0,
+      "CurrentControl": false,
+      "MeasuredCurrent": 95.68,
+      "MeasuredVoltage": 996,
+      "CalculatedResistance": 889416,
+      "SecondsFromStart": 180
+    },
+    {
+      "RequestedValue": 0,
+      "CurrentControl": false,
+      "MeasuredCurrent": 96.3,
+      "MeasuredVoltage": 1000,
+      "CalculatedResistance": 882033,
+      "SecondsFromStart": 210
+    },
+    {
+      "RequestedValue": 0,
+      "CurrentControl": false,
+      "MeasuredCurrent": 95.68,
+      "MeasuredVoltage": 996,
+      "CalculatedResistance": 875379,
+      "SecondsFromStart": 240
+    },
+    {
+      "RequestedValue": 0,
+      "CurrentControl": false,
+      "MeasuredCurrent": 96.71,
+      "MeasuredVoltage": 1000,
+      "CalculatedResistance": 874813,
+      "SecondsFromStart": 270
+    },
+    {
+      "RequestedValue": 0,
+      "CurrentControl": false,
+      "MeasuredCurrent": 96.3,
+      "MeasuredVoltage": 1000,
+      "CalculatedResistance": 874813,
+      "SecondsFromStart": 300
+    }
+  ]
+}

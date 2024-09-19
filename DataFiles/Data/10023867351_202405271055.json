@@ -1,0 +1,82 @@
+{
+  "TimeOfCreation": "27.05.2024 10:55",
+  "Pump": {
+    "ID": "10023867351",
+    "Platform": "Planar",
+    "IEM": "PSS-co-MA/PEG",
+    "Coating": "Acrylate",
+    "IEMGeometry": "Circular",
+    "Source": "KCl",
+    "Solvent": "DI water",
+    "TargetSolvent": "DMSO",
+    "Target": "NaCl",
+    "SourceConcentrationUnit": "nM",
+    "TargetConcentrationUnit": "nM",
+    "PolyConcentration": 2.33,
+    "CSDiam": 3.0,
+    "CSLen": 4.0,
+    "CSWidth": 3.0,
+    "Length": 2.0,
+    "SConc": 4.0,
+    "TConc": 4.0,
+    "NumChannels": 1.0
+  },
+  "Data": [
+    {
+      "RequestedValue": 0,
+      "CurrentControl": true,
+      "MeasuredCurrent": -2.0,
+      "MeasuredVoltage": -2534,
+      "CalculatedResistance": 1257599975,
+      "SecondsFromStart": 3
+    },
+    {
+      "RequestedValue": 0,
+      "CurrentControl": true,
+      "MeasuredCurrent": -2.0,
+      "MeasuredVoltage": -2534,
+      "CalculatedResistance": 1257599975,
+      "SecondsFromStart": 6
+    },
+    {
+      "RequestedValue": 0,
+      "CurrentControl": true,
+      "MeasuredCurrent": -2.0,
+      "MeasuredVoltage": -2534,
+      "CalculatedResistance": 1257599975,
+      "SecondsFromStart": 9
+    },
+    {
+      "RequestedValue": 0,
+      "CurrentControl": true,
+      "MeasuredCurrent": 0.0,
+      "MeasuredVoltage": 0,
+      "CalculatedResistance": 0,
+      "SecondsFromStart": 12
+    },
+    {
+      "RequestedValue": 0,
+      "CurrentControl": true,
+      "MeasuredCurrent": 0.0,
+      "MeasuredVoltage": 0,
+      "CalculatedResistance": 0,
+      "SecondsFromStart": 15
+    },
+    {
+      "RequestedValue": 0,
+      "CurrentControl": true,
+      "MeasuredCurrent": 0.0,
+      "MeasuredVoltage": 0,
+      "CalculatedResistance": 0,
+      "SecondsFromStart": 18
+    },
+    {
+      "RequestedValue": 0,
+      "CurrentControl": true,
+      "MeasuredCurrent": 0.0,
+      "MeasuredVoltage": 0,
+      "CalculatedResistance": 0,
+      "SecondsFromStart": 21
+    }
+  ]
+}

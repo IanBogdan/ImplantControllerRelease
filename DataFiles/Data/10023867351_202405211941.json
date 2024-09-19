@@ -1,0 +1,194 @@
+{
+  "TimeOfCreation": "21.05.2024 19:41",
+  "Pump": {
+    "ID": "10023867351",
+    "Platform": "Planar",
+    "IEM": "PSS-co-MA/PEG",
+    "Coating": "Acrylate",
+    "IEMGeometry": "Circular",
+    "Source": "KCl",
+    "Solvent": "DI water",
+    "TargetSolvent": "DMSO",
+    "Target": "NaCl",
+    "SourceConcentrationUnit": "nM",
+    "TargetConcentrationUnit": "nM",
+    "PolyConcentration": 2.33,
+    "CSDiam": 3.0,
+    "CSLen": 4.0,
+    "CSWidth": 3.0,
+    "Length": 2.0,
+    "SConc": 4.0,
+    "TConc": 4.0,
+    "NumChannels": 1.0
+  },
+  "Data": [
+    {
+      "RequestedValue": 0,
+      "CurrentControl": true,
+      "MeasuredCurrent": 1.63,
+      "MeasuredVoltage": 7055,
+      "CalculatedResistance": 3713315917,
+      "SecondsFromStart": 30
+    },
+    {
+      "RequestedValue": 0,
+      "CurrentControl": true,
+      "MeasuredCurrent": 1.84,
+      "MeasuredVoltage": 167,
+      "CalculatedResistance": 3422696044,
+      "SecondsFromStart": 60
+    },
+    {
+      "RequestedValue": 500,
+      "CurrentControl": false,
+      "MeasuredCurrent": 1.63,
+      "MeasuredVoltage": 22,
+      "CalculatedResistance": 467359588,
+      "SecondsFromStart": 90
+    },
+    {
+      "RequestedValue": 500,
+      "CurrentControl": false,
+      "MeasuredCurrent": 1.84,
+      "MeasuredVoltage": 161,
+      "CalculatedResistance": 21587549,
+      "SecondsFromStart": 120
+    },
+    {
+      "RequestedValue": 500,
+      "CurrentControl": false,
+      "MeasuredCurrent": 1.84,
+      "MeasuredVoltage": 295,
+      "CalculatedResistance": 106574401,
+      "SecondsFromStart": 150
+    },
+    {
+      "RequestedValue": 500,
+      "CurrentControl": false,
+      "MeasuredCurrent": 1.84,
+      "MeasuredVoltage": 386,
+      "CalculatedResistance": 186255096,
+      "SecondsFromStart": 180
+    },
+    {
+      "RequestedValue": 500,
+      "CurrentControl": false,
+      "MeasuredCurrent": 1.63,
+      "MeasuredVoltage": 441,
+      "CalculatedResistance": 229880004,
+      "SecondsFromStart": 210
+    },
+    {
+      "RequestedValue": 500,
+      "CurrentControl": false,
+      "MeasuredCurrent": 1.63,
+      "MeasuredVoltage": 471,
+      "CalculatedResistance": 257731506,
+      "SecondsFromStart": 240
+    },
+    {
+      "RequestedValue": 500,
+      "CurrentControl": false,
+      "MeasuredCurrent": 1.84,
+      "MeasuredVoltage": 485,
+      "CalculatedResistance": 264041198,
+      "SecondsFromStart": 270
+    },
+    {
+      "RequestedValue": 500,
+      "CurrentControl": false,
+      "MeasuredCurrent": 1.63,
+      "MeasuredVoltage": 493,
+      "CalculatedResistance": 276717987,
+      "SecondsFromStart": 300
+    },
+    {
+      "RequestedValue": 500,
+      "CurrentControl": false,
+      "MeasuredCurrent": 1.63,
+      "MeasuredVoltage": 495,
+      "CalculatedResistance": 283525909,
+      "SecondsFromStart": 330
+    },
+    {
+      "RequestedValue": 500,
+      "CurrentControl": false,
+      "MeasuredCurrent": 1.63,
+      "MeasuredVoltage": 499,
+      "CalculatedResistance": 295593902,
+      "SecondsFromStart": 360
+    },
+    {
+      "RequestedValue": 500,
+      "CurrentControl": false,
+      "MeasuredCurrent": 1.63,
+      "MeasuredVoltage": 501,
+      "CalculatedResistance": 302187896,
+      "SecondsFromStart": 390
+    },
+    {
+      "RequestedValue": 500,
+      "CurrentControl": false,
+      "MeasuredCurrent": 3.27,
+      "MeasuredVoltage": 501,
+      "CalculatedResistance": 384203002,
+      "SecondsFromStart": 420
+    },
+    {
+      "RequestedValue": 500,
+      "CurrentControl": false,
+      "MeasuredCurrent": 1.43,
+      "MeasuredVoltage": 499,
+      "CalculatedResistance": 213527297,
+      "SecondsFromStart": 450
+    },
+    {
+      "RequestedValue": 500,
+      "CurrentControl": false,
+      "MeasuredCurrent": 1.22,
+      "MeasuredVoltage": 499,
+      "CalculatedResistance": 335070007,
+      "SecondsFromStart": 480
+    },
+    {
+      "RequestedValue": 500,
+      "CurrentControl": false,
+      "MeasuredCurrent": 1.22,
+      "MeasuredVoltage": 501,
+      "CalculatedResistance": 400553192,
+      "SecondsFromStart": 510
+    },
+    {
+      "RequestedValue": 500,
+      "CurrentControl": false,
+      "MeasuredCurrent": 1.22,
+      "MeasuredVoltage": 501,
+      "CalculatedResistance": 400881011,
+      "SecondsFromStart": 540
+    },
+    {
+      "RequestedValue": 500,
+      "CurrentControl": false,
+      "MeasuredCurrent": 1.22,
+      "MeasuredVoltage": 501,
+      "CalculatedResistance": 383838104,
+      "SecondsFromStart": 570
+    },
+    {
+      "RequestedValue": 500,
+      "CurrentControl": false,
+      "MeasuredCurrent": 1.22,
+      "MeasuredVoltage": 499,
+      "CalculatedResistance": 388873504,
+      "SecondsFromStart": 600
+    },
+    {
+      "RequestedValue": 500,
+      "CurrentControl": false,
+      "MeasuredCurrent": 1.22,
+      "MeasuredVoltage": 499,
+      "CalculatedResistance": 390549713,
+      "SecondsFromStart": 630
+    }
+  ]
+}

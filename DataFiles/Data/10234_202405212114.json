@@ -1,0 +1,50 @@
+{
+  "TimeOfCreation": "21.05.2024 21:14",
+  "Pump": {
+    "ID": "10234",
+    "Platform": "Planar",
+    "IEM": "C-HPG",
+    "Coating": "Acrylate",
+    "IEMGeometry": "Rectangular",
+    "Source": "Tz (K2)",
+    "Solvent": "PBS",
+    "TargetSolvent": null,
+    "Target": "PBS",
+    "SourceConcentrationUnit": null,
+    "TargetConcentrationUnit": null,
+    "PolyConcentration": 10.0,
+    "CSDiam": 3.0,
+    "CSLen": 0.0,
+    "CSWidth": 0.0,
+    "Length": 5.0,
+    "SConc": 0.33,
+    "TConc": 4.0,
+    "NumChannels": 2.0
+  },
+  "Data": [
+    {
+      "RequestedValue": 0,
+      "CurrentControl": true,
+      "MeasuredCurrent": 3.33,
+      "MeasuredVoltage": 555,
+      "CalculatedResistance": 842295288,
+      "SecondsFromStart": 30
+    },
+    {
+      "RequestedValue": 0,
+      "CurrentControl": true,
+      "MeasuredCurrent": 3.33,
+      "MeasuredVoltage": 555,
+      "CalculatedResistance": 157455703,
+      "SecondsFromStart": 60
+    },
+    {
+      "RequestedValue": 0,
+      "CurrentControl": true,
+      "MeasuredCurrent": 3.33,
+      "MeasuredVoltage": 555,
+      "CalculatedResistance": 157455703,
+      "SecondsFromStart": 90
+    }
+  ]
+}

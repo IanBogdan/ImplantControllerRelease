@@ -1,0 +1,39 @@
+{
+  "TimeOfCreation": "14.05.2024 20:42",
+  "Pump": {
+    "ID": "1002386735",
+    "Platform": "Capillary",
+    "IEM": "PSS-co-MA/PEG",
+    "Coating": "Acrylate",
+    "IEMGeometry": "Circular",
+    "Source": "KCl",
+    "Solvent": "DI water",
+    "Target": "NaCl",
+    "PolyConcentration": 2.33,
+    "CSDiam": 3.0,
+    "CSLen": 0.0,
+    "CSWidth": 0.0,
+    "Length": 2.0,
+    "SConc": 4.0,
+    "TConc": 4.0,
+    "NumChannels": 1.0
+  },
+  "Data": [
+    {
+      "RequestedValue": 0,
+      "CurrentControl": true,
+      "MeasuredCurrent": 13.66,
+      "MeasuredVoltage": 3514,
+      "CalculatedResistance": 2147483647,
+      "SecondsFromStart": 30
+    },
+    {
+      "RequestedValue": 0,
+      "CurrentControl": true,
+      "MeasuredCurrent": 498.03,
+      "MeasuredVoltage": 3514,
+      "CalculatedResistance": 60950092,
+      "SecondsFromStart": 60
+    }
+  ]
+}

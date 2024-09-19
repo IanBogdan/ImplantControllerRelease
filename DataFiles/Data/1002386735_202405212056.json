@@ -1,0 +1,82 @@
+{
+  "TimeOfCreation": "21.05.2024 20:56",
+  "Pump": {
+    "ID": "1002386735",
+    "Platform": "Capillary",
+    "IEM": "PSS-co-MA/PEG",
+    "Coating": "Acrylate",
+    "IEMGeometry": "Circular",
+    "Source": "KCl",
+    "Solvent": "DI water",
+    "TargetSolvent": null,
+    "Target": "NaCl",
+    "SourceConcentrationUnit": null,
+    "TargetConcentrationUnit": null,
+    "PolyConcentration": 2.33,
+    "CSDiam": 3.0,
+    "CSLen": 0.0,
+    "CSWidth": 0.0,
+    "Length": 2.0,
+    "SConc": 4.0,
+    "TConc": 4.0,
+    "NumChannels": 1.0
+  },
+  "Data": [
+    {
+      "RequestedValue": 0,
+      "CurrentControl": true,
+      "MeasuredCurrent": 19.79,
+      "MeasuredVoltage": 7172,
+      "CalculatedResistance": 355886291,
+      "SecondsFromStart": 30
+    },
+    {
+      "RequestedValue": 0,
+      "CurrentControl": true,
+      "MeasuredCurrent": 32.92,
+      "MeasuredVoltage": 7307,
+      "CalculatedResistance": 1516447021,
+      "SecondsFromStart": 60
+    },
+    {
+      "RequestedValue": 0,
+      "CurrentControl": true,
+      "MeasuredCurrent": 16.46,
+      "MeasuredVoltage": 7307,
+      "CalculatedResistance": 856196899,
+      "SecondsFromStart": 90
+    },
+    {
+      "RequestedValue": 0,
+      "CurrentControl": true,
+      "MeasuredCurrent": 26.69,
+      "MeasuredVoltage": 7307,
+      "CalculatedResistance": 625000976,
+      "SecondsFromStart": 120
+    },
+    {
+      "RequestedValue": 0,
+      "CurrentControl": true,
+      "MeasuredCurrent": 1.77,
+      "MeasuredVoltage": 7309,
+      "CalculatedResistance": 2449243896,
+      "SecondsFromStart": 150
+    },
+    {
+      "RequestedValue": 0,
+      "CurrentControl": true,
+      "MeasuredCurrent": 1.77,
+      "MeasuredVoltage": 7309,
+      "CalculatedResistance": 4120166992,
+      "SecondsFromStart": 180
+    },
+    {
+      "RequestedValue": 0,
+      "CurrentControl": true,
+      "MeasuredCurrent": 1.77,
+      "MeasuredVoltage": 7309,
+      "CalculatedResistance": 4120166992,
+      "SecondsFromStart": 210
+    }
+  ]
+}
